@@ -3,7 +3,7 @@ import { gsap } from "@/lib/gsap";
 import SectionWrapper from "@/components/layout/SectionWrapper";
 
 const expertiseItems = [
-  { title: "UI/UX Design", description: "Designing intuitive, elegant interfaces rooted in human behavior." },
+  { title: "UI Design", description: "Designing intuitive, elegant interfaces rooted in human behavior." },
   { title: "Frontend Development", description: "Building performant web experiences with modern frameworks." },
   { title: "Motion & Interaction", description: "Crafting animations that elevate digital products." },
   { title: "Brand Identity", description: "Creating cohesive visual systems that resonate." },
